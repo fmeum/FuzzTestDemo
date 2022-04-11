@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JazzerTestEngine_deploy">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/bazel/_bazel_fhenneke/4b646345d108d26eb716dacf5ef06e11/execroot/jazzer/bazel-out/k8-opt/bin/agent/src/main/java/com/code_intelligence/jazzer/junit/JazzerTestEngine_deploy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
